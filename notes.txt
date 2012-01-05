@@ -1,0 +1,6 @@
+javascript namespace stuff.
+crowd stuff.
+drupal stuff.
+cakephp stuff.
+
+Object Oriented programming style. Analyzing complex problem and doing modeling.
