@@ -1,5 +1,6 @@
 /*calculate the days, weeks and months by sophist start */
-// function get days, weeks, months
+// function get days, weeks, months : input a date string like '2011-01-23', then will get a date or week or month value from it according to a certain rule that is specified in this piece of code.
+
 var sophist = {
 	config : {
 		'Weekly' : 'weeks',
